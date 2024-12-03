@@ -25,3 +25,5 @@ images[1].addEventListener("click", ()=> {
 images[2].addEventListener("click", ()=> {
     coin.play();
 });
+
+console.log("mroe javascript!")
